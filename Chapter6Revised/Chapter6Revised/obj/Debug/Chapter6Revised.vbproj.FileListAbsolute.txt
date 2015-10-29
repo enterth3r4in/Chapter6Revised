@@ -1,1 +1,10 @@
 C:\Users\as600\Documents\GitHub\Chapter6Revised\Chapter6Revised\Chapter6Revised\bin\Debug\Chapter6Revised.exe.config
+C:\Users\as600\Documents\GitHub\Chapter6Revised\Chapter6Revised\Chapter6Revised\bin\Debug\Chapter6Revised.exe
+C:\Users\as600\Documents\GitHub\Chapter6Revised\Chapter6Revised\Chapter6Revised\bin\Debug\Chapter6Revised.pdb
+C:\Users\as600\Documents\GitHub\Chapter6Revised\Chapter6Revised\Chapter6Revised\bin\Debug\Chapter6Revised.xml
+C:\Users\as600\Documents\GitHub\Chapter6Revised\Chapter6Revised\Chapter6Revised\obj\Debug\Chapter6Revised.Form1.resources
+C:\Users\as600\Documents\GitHub\Chapter6Revised\Chapter6Revised\Chapter6Revised\obj\Debug\Chapter6Revised.Resources.resources
+C:\Users\as600\Documents\GitHub\Chapter6Revised\Chapter6Revised\Chapter6Revised\obj\Debug\Chapter6Revised.vbproj.GenerateResource.Cache
+C:\Users\as600\Documents\GitHub\Chapter6Revised\Chapter6Revised\Chapter6Revised\obj\Debug\Chapter6Revised.exe
+C:\Users\as600\Documents\GitHub\Chapter6Revised\Chapter6Revised\Chapter6Revised\obj\Debug\Chapter6Revised.xml
+C:\Users\as600\Documents\GitHub\Chapter6Revised\Chapter6Revised\Chapter6Revised\obj\Debug\Chapter6Revised.pdb
