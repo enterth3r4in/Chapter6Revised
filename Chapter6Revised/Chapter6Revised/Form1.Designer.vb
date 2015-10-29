@@ -46,6 +46,7 @@ Partial Class Form1
         Me.btnExit.Name = "btnExit"
         Me.btnExit.Size = New System.Drawing.Size(100, 23)
         Me.btnExit.TabIndex = 2
+        Me.btnExit.TabStop = False
         Me.btnExit.Text = "Exit Program"
         Me.btnExit.UseVisualStyleBackColor = True
         '
@@ -57,13 +58,14 @@ Partial Class Form1
         Me.userPrompt.Size = New System.Drawing.Size(255, 13)
         Me.userPrompt.TabIndex = 3
         Me.userPrompt.Text = "Enter your question for the magic, mystical Eight Ball!"
+        Me.userPrompt.TextAlign = System.Drawing.ContentAlignment.TopCenter
         '
         'questionInput
         '
         Me.questionInput.Location = New System.Drawing.Point(89, 301)
         Me.questionInput.Name = "questionInput"
         Me.questionInput.Size = New System.Drawing.Size(256, 20)
-        Me.questionInput.TabIndex = 4
+        Me.questionInput.TabIndex = 0
         '
         'PictureBox1
         '
